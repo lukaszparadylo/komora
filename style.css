@@ -1,0 +1,19 @@
+body{
+
+}
+.row{
+    margin: 2px;
+    text-align: center;
+}
+.movie{
+    display: flex;
+
+}
+.style{
+
+
+}
+iframe{
+    min-width: 450px;
+    min-height: 300px;
+}
