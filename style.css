@@ -2,18 +2,21 @@ body{
 
 }
 .row{
-    margin: 2px;
-    text-align: center;
+    
+
 }
 .movie{
-    display: flex;
+    
 
 }
 .style{
-
-
+    justify-content:center;
+    display: flex;
+    margin-top: 30px;
 }
 iframe{
-    min-width: 450px;
-    min-height: 300px;
+    
+}
+.container{
+
 }
